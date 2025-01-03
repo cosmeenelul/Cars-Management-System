@@ -1,7 +1,7 @@
 # Cars-Management-System
 This project wrote in C Language is based on memory management using HEAP memory allocation 
 
-#RO LANGUAGE 
+# RO LANGUAGE 
 
 # Sistem de Management al Mașinilor
 
@@ -81,7 +81,8 @@ Mașina Tesla cu nr. înmatriculare US890HIJ a avut 0 proprietari.
 
 ---
 
-# Car Management System
+# EN LANGUAGE
+# Cars Management System
 
 ## Description
 The **Car Management System** is a console-based application written in C. It facilitates the management of a car database by supporting various operations such as selling, adding, and recycling ("rabla") cars. The system is designed to be compatible with the Romanian RABLA program, allowing users to handle car ownership and recycling processes efficiently.
